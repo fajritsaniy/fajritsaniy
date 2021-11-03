@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fajritsaniy
-- 👀 I’m interested in QA Engineer
-- 🌱 I’m currently bootcamp of Java Full Stack!
+- 👋 Hi, I’m @fajritsaniy.
+- 👀 I’m interested in QA Engineer.
+- 🌱 I’m currently doing bootcamp of Java Full Stack!
 - 💞️ I’m looking to collaborate soon.
 - 📫 How to reach me : fajri2723@gmail.com
 
