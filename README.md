@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fajritsaniy.
-- 👀 I’m interested in QA Engineer.
-- 🌱 I’m currently doing bootcamp of Java Full Stack!
+- 👀 I’m interested in QA Engineering, Software Engineering, and Data Engineering.
+- 🌱 I’m currently as QA Engineer @ Sinarmas Mining
 - 💞️ I’m looking to collaborate soon.
 - 📫 How to reach me : fajri2723@gmail.com
 
